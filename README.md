@@ -1,0 +1,2 @@
+# UDPInteraction
+Simple UDP shit with random shitty functions that server no purpose unless you wanted to stray away from UDP which this project was never made to do. Also decided to write my own conversion from str -> bytes that just didn't fucking work despite tooltips saying that x function would do y thing but it didn't and so now I basically have a useless conversion function as I could just use the conversion function directly lmaoooo.
